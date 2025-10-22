@@ -1,2 +1,2 @@
 # clone-tabnews
-Implementando uma apllicação para fins de estudo das tecnologias utilizadas.
+Implementando uma aplicação para fins de estudo das tecnologias utilizadas.
